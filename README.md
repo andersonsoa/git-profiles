@@ -1,2 +1,3 @@
-# git-profiles
-Ferramenta que utiliza a API do Github para exibir dados de usuários
+# Git Profiles
+
+App construida com fins de **estudo**
